@@ -1,6 +1,6 @@
 # ==============================================================================
 # RNAi Potential Predictor: Bacterial-Fungal Cross-Kingdom Silencing
-# Author: [Your Name]
+# Author: Ömür BAYSAL Ph.D. 
 # License: MIT
 # ==============================================================================
 
